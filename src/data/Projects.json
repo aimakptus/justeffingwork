@@ -1,0 +1,433 @@
+{
+  "projects": [
+    {
+      "title": {
+        "es": "Arteficial",
+        "en": "Arteficial"
+      },
+      "subtitle": {
+        "es": "Cortometraje",
+        "en": "Short film"
+      },
+      "image": "/Miniaturas/arteficial-thumb.webp",
+      "categories": [
+        "Narrativos"
+      ],
+      "laurel": {
+        "enabled": false,
+        "image": {
+          "es": "",
+          "en": ""
+        }
+      },
+      "video": {
+        "youtube": "https://youtu.be/4Gqq-ZTtE-4",
+        "drive": ""
+      }
+    },
+    {
+      "title": {
+        "es": "videoju[z]gar",
+        "en": "videoju[z]gar"
+      },
+      "subtitle": {
+        "es": "Miniserie documental",
+        "en": "Mini docu-series"
+      },
+      "image": "/Miniaturas/videojuzgar-thumb.webp",
+      "categories": [
+        "Narrativos"
+      ],
+      "laurel": {
+        "enabled": true,
+        "image": {
+          "es": "/esp-laurel-videojuzgar.webp",
+          "en": "/eng-laurel-videojuzgar.webp"
+        }
+      },
+      "video": {
+        "youtube": "https://youtube.com/playlist?list=PLuuBZMiy3KpNzzliPVNosWE4Jcig5mgG4",
+        "drive": ""
+      }
+    },
+    {
+      "title": {
+        "es": "Romper Cadenas",
+        "en": "Romper Cadenas"
+      },
+      "subtitle": {
+        "es": "Documental",
+        "en": "Documentary"
+      },
+      "image": "/Miniaturas/romper-cadenas-thumb.webp",
+      "categories": [
+        "Narrativos"
+      ],
+      "laurel": {
+        "enabled": true,
+        "image": {
+          "es": "/esp-laurel-romper-cadenas.webp",
+          "en": "/eng-laurel-romper-cadenas.webp"
+        }
+      },
+      "video": {
+        "youtube": "https://youtube.com/playlist?list=PLwZ251E6wz6372wXEHc7djyApc1PsJsAh",
+        "drive": ""
+      }
+    },
+    {
+      "title": {
+        "es": "Laboratorios OSA",
+        "en": "OSA Laboratories"
+      },
+      "subtitle": {
+        "es": "Video promocional",
+        "en": "Promotional video"
+      },
+      "image": "/Miniaturas/laboratorios-osa-thumb.webp",
+      "categories": [
+        "Comerciales"
+      ],
+      "laurel": {
+        "enabled": false,
+        "image": {
+          "es": "",
+          "en": ""
+        }
+      },
+      "video": {
+        "youtube": "https://youtu.be/k-x25em8U10",
+        "drive": ""
+      }
+    },
+    {
+      "title": {
+        "es": "Vota por Elías Figueroa",
+        "en": "Vote for Elías Figueroa"
+      },
+      "subtitle": {
+        "es": "Video promocional",
+        "en": "Promotional video"
+      },
+      "image": "/Miniaturas/elias-figueroa-thumb.webp",
+      "categories": [
+        "Comerciales"
+      ],
+      "laurel": {
+        "enabled": false,
+        "image": {
+          "es": "",
+          "en": ""
+        }
+      },
+      "video": {
+        "youtube": "https://youtu.be/zCVsUJHwdko",
+        "drive": ""
+      }
+    },
+    {
+      "title": {
+        "es": "BIANCO",
+        "en": "BIANCO"
+      },
+      "subtitle": {
+        "es": "Videos promocionales",
+        "en": "Promotional videos"
+      },
+      "image": "/Miniaturas/bianco-thumb.webp",
+      "categories": [
+        "Comerciales"
+      ],
+      "laurel": {
+        "enabled": false,
+        "image": {
+          "es": "",
+          "en": ""
+        }
+      },
+      "video": {
+        "youtube": "",
+        "drive": "https://drive.google.com/drive/folders/1-0NTNGHsoLao4ORZtTE2H1iB33AoyqH2?usp=sharing"
+      }
+    },
+    {
+      "title": {
+        "es": "Torneo 2v2 Hardcore",
+        "en": "2v2 Hardcore Tournament"
+      },
+      "subtitle": {
+        "es": "Video promocional",
+        "en": "Promotional video"
+      },
+      "image": "/Miniaturas/torneo-live-thumb.webp",
+      "categories": [
+        "Comerciales",
+        "Gaming"
+      ],
+      "laurel": {
+        "enabled": false,
+        "image": {
+          "es": "",
+          "en": ""
+        }
+      },
+      "video": {
+        "youtube": "https://youtu.be/8b_HWXQXiLs",
+        "drive": ""
+      }
+    },
+    {
+      "title": {
+        "es": "Torneo 2v2 Hardcore",
+        "en": "2v2 Hardcore Tournament"
+      },
+      "subtitle": {
+        "es": "Transmisión en vivo",
+        "en": "Livestream"
+      },
+      "image": "/Miniaturas/promo-torneo-thumb.webp",
+      "categories": [
+        "Gaming"
+      ],
+      "laurel": {
+        "enabled": false,
+        "image": {
+          "es": "",
+          "en": ""
+        }
+      },
+      "video": {
+        "youtube": "https://youtu.be/5bq6FDt71ns",
+        "drive": ""
+      }
+    },
+    {
+      "title": {
+        "es": "Hayden Green",
+        "en": "Hayden Green"
+      },
+      "subtitle": {
+        "es": "Gameplay",
+        "en": "Gameplay"
+      },
+      "image": "/Miniaturas/hayden-thumb.webp",
+      "categories": [
+        "Gaming"
+      ],
+      "laurel": {
+        "enabled": false,
+        "image": {
+          "es": "",
+          "en": ""
+        }
+      },
+      "video": {
+        "youtube": "https://youtu.be/feeCrn-qoUA",
+        "drive": ""
+      }
+    },
+    {
+      "title": {
+        "es": "Dom & Hayden",
+        "en": "Dom & Hayden"
+      },
+      "subtitle": {
+        "es": "Gameplays",
+        "en": "Gameplays"
+      },
+      "image": "/Miniaturas/domhayden-thumb.webp",
+      "categories": [
+        "Gaming"
+      ],
+      "laurel": {
+        "enabled": false,
+        "image": {
+          "es": "",
+          "en": ""
+        }
+      },
+      "video": {
+        "youtube": "https://youtube.com/playlist?list=PLWNf-aRw7gnk&si=3aoq3btfBDewiXXZ",
+        "drive": ""
+      }
+    },
+    {
+      "title": {
+        "es": "degenDom",
+        "en": "degenDom"
+      },
+      "subtitle": {
+        "es": "Gameplays",
+        "en": "Gameplays"
+      },
+      "image": "/Miniaturas/degendom-thumb.webp",
+      "categories": [
+        "Gaming"
+      ],
+      "laurel": {
+        "enabled": false,
+        "image": {
+          "es": "",
+          "en": ""
+        }
+      },
+      "video": {
+        "youtube": "https://youtube.com/playlist?list=PLfYeDzuTKDDg&si=6TuhRVm1TvnQUn3X",
+        "drive": ""
+      }
+    },
+    {
+      "title": {
+        "es": "DomPlays",
+        "en": "DomPlays"
+      },
+      "subtitle": {
+        "es": "Gameplay",
+        "en": "Gameplay"
+      },
+      "image": "/Miniaturas/domplays-thumb.webp",
+      "categories": [
+        "Gaming"
+      ],
+      "laurel": {
+        "enabled": false,
+        "image": {
+          "es": "",
+          "en": ""
+        }
+      },
+      "video": {
+        "youtube": "https://youtu.be/XgKumPUU1l8",
+        "drive": ""
+      }
+    },
+    {
+      "title": {
+        "es": "Retro Sound Radio Beats",
+        "en": "Retro Sound Radio Beats"
+      },
+      "subtitle": {
+        "es": "TikToks",
+        "en": "TikToks"
+      },
+      "image": "/Miniaturas/rsrb-thubm.webp",
+      "categories": [
+        "Verticales"
+      ],
+      "laurel": {
+        "enabled": false,
+        "image": {
+          "es": "",
+          "en": ""
+        }
+      },
+      "video": {
+        "youtube": "",
+        "drive": "https://drive.google.com/drive/folders/12d6MAERXE8LIQvGn9LHZUkqM1v9mtSgf?usp=sharing"
+      }
+    },
+    {
+      "title": {
+        "es": "Paradiso Café",
+        "en": "Paradiso Café"
+      },
+      "subtitle": {
+        "es": "Reels",
+        "en": "Reels"
+      },
+      "image": "/Miniaturas/paradisocafe-thumb.webp",
+      "categories": [
+        "Comerciales",
+        "Verticales"
+      ],
+      "laurel": {
+        "enabled": false,
+        "image": {
+          "es": "",
+          "en": ""
+        }
+      },
+      "video": {
+        "youtube": "",
+        "drive": "https://drive.google.com/drive/folders/1OwA0nwwFcIG7fRbdqUeKC0C6IiyNQ0YX?usp=drive_link"
+      }
+    },
+    {
+      "title": {
+        "es": "R69 Entertainment",
+        "en": "R69 Entertainment"
+      },
+      "subtitle": {
+        "es": "Reels",
+        "en": "Reels"
+      },
+      "image": "/Miniaturas/r69-thumb.webp",
+      "categories": [
+        "Comerciales",
+        "Verticales"
+      ],
+      "laurel": {
+        "enabled": false,
+        "image": {
+          "es": "",
+          "en": ""
+        }
+      },
+      "video": {
+        "youtube": "",
+        "drive": "https://drive.google.com/drive/folders/1LJWt7LPoJKmv8QP27vi8QJfOU9TU1_8C?usp=sharing"
+      }
+    },
+    {
+      "title": {
+        "es": "I Love 80, 90’s & 2000",
+        "en": "I Love 80, 90’s & 2000"
+      },
+      "subtitle": {
+        "es": "Reels",
+        "en": "Reels"
+      },
+      "image": "/Miniaturas/i-love-thumb.webp",
+      "categories": [
+        "Comerciales",
+        "Verticales"
+      ],
+      "laurel": {
+        "enabled": false,
+        "image": {
+          "es": "",
+          "en": ""
+        }
+      },
+      "video": {
+        "youtube": "https://www.youtube.com/playlist?list=PLwZ251E6wz60UjnTsgx8Wk-Hkn8DGW7ZK",
+        "drive": ""
+      }
+    },
+    {
+      "title": {
+        "es": "Cómo usar el sistema SIPPU",
+        "en": "How to use the SIPPU system"
+      },
+      "subtitle": {
+        "es": "Tutorial",
+        "en": "Tutorial"
+      },
+      "image": "/Miniaturas/sippu-thumb.webp",
+      "categories": [
+        "Comerciales"
+      ],
+      "laurel": {
+        "enabled": false,
+        "image": {
+          "es": "",
+          "en": ""
+        }
+      },
+      "video": {
+        "youtube": "https://youtu.be/sxSl9ZD-UHs",
+        "drive": ""
+      }
+    }
+  ]
+}
